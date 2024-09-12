@@ -14,6 +14,10 @@
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
 .footer p {

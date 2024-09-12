@@ -1,7 +1,18 @@
-* {
+@font-face {
+  font-family: 'Oliver-Regular';
+  src: url('./fonts/Oliver-Regular.ttf') format('truetype');
+}
+
+html {
   background-color: #ECE9E2;
 }
 
 p, h1, h2, h3 {
   color: #F89E9D;
+}
+
+h1 {
+  font-family: 'Oliver-Regular';
+  font-size: 4em;
+  text-align: center;
 }

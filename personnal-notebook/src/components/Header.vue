@@ -17,6 +17,8 @@
         </div>
     </div>
 
+    <h1>Personal Notebook</h1>
+
 </template>
 
 <style scoped>
